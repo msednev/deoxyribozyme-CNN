@@ -1,0 +1,3 @@
+*.gz
+*.keras
+notebooks/.ipynb_checkpoints
